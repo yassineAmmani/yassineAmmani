@@ -4,8 +4,8 @@
 <h3 align="center"  >A passionate frontend developer from Morocco</h3>
 
 
-<p align="center" width="80%">
-<img align="left" width="58%" src="https://github-readme-stats.vercel.app/api?username=yassineAmmani&theme=vue-dark&show_icons=true" />
+<p align="center" width="100%">
+<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=yassineAmmani&theme=vue-dark&show_icons=true" />
 
 <img align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineAmmani&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
