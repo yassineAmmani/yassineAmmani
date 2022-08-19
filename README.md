@@ -5,9 +5,9 @@
 
 
 <p align="center" width="80%">
-<img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=yassineAmmani&theme=vue-dark&show_icons=true" />
+<img align="left" width="56%" src="https://github-readme-stats.vercel.app/api?username=yassineAmmani&theme=vue-dark&show_icons=true" />
 
-<img align="left" width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineAmmani&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineAmmani&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 
 </p>
