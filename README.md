@@ -9,10 +9,10 @@
 
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineAmmani&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
-<br />
+
 </p>
                                                                                                                                                                                       
-<h3 align="left"> . </h3>
+<h3 align="center"> . </h3>
 <p align="left">
 </p>
 
