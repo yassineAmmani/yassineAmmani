@@ -1,6 +1,7 @@
 <p align="center">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=26&pause=1500&color=41B783&background=27384900&vCenter=true&lines=Hi+there%2C+I'm+Yassine+%F0%9F%91%8B)](https://git.io/typing-svg"  />
 </p>
+
 <h3 align="center"  >A passionate frontend developer from Morocco</h3>
 
 
