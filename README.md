@@ -77,7 +77,6 @@
   <img align="center" width="30%" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
 </p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 
 
