@@ -73,11 +73,8 @@
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yassineammani&theme=react-dark&bg_color=273849&color=708090&line=3DA47A&custom_title=My%20contributions&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center" width="100%">
   <img align="center" width="30%" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
 </p>
-
-
-
-
 
