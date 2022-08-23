@@ -54,8 +54,14 @@
 
 </h1>
 <p align="left">
-<a href="https://stackoverflow.com/users/19802362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19802362" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/19802362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19802362" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user0206zl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user0206zl" height="30" width="40" /></a>
+<a href="https://codepen.io/yassineammani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yassineammani" height="30" width="40" /></a>
+<a href="https://medium.com/@y.ammani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@y.ammani" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/y_ammani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="y_ammani" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yassineammani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yassineammani" height="30" width="40" /></a>
+
+
 </p>
 
 <h1 align="left">
