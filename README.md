@@ -13,7 +13,7 @@
 
 </h1>
 
-I am an **AI & Data Engineer** building production-grade systems in Data **Agentic AI, RAG pipelines, and real-time data platforms** since 202.
+I am an **AI & Data Engineer** building production-grade systems in Data **Agentic AI, RAG pipelines, and real-time data platforms** since 2022.
 
 I design and deliver systems that connect **data engineering + LLMs + automation + analytics** into scalable products used for decision-making and operational intelligence.
 
